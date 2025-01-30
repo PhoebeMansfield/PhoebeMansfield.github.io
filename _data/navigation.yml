@@ -1,4 +1,4 @@
-- title: Start
+- title: Home
   url: "/"
   side: left
 
@@ -6,30 +6,14 @@
   url: "/getting-started/"
   side: left
 
-- title: "Templates"
-  url: "/design/"
+- title: "Projects"
+  url: "/projects/"
   side: left
   dropdown:
-  - title: "Grid & Colors"
-    url: "/design/grid/"
-  - title: "Typography"
-    url: "/design/typography/typography/"
-  - title: "Page/Post"
-    url: "/design/page/"
-  - title: "Post-Left-Sidebar"
-    url: "/design/post-left-sidebar/"
-  - title: "Post-Right-Sidebar"
-    url: "/design/post-right-sidebar/"
-  - title: "Page Full-Width"
-    url: "/design/page-fullwidth/"
-  - title: "Blog-Page"
-    url: "/blog/"
-  - title: "Video"
-    url: "/design/video/"
-  - title: "Gallery"
-    url: "/design/gallery/"
-  - title: "Portfolio"
-    url: "/design/portfolio/"
+  - title: "test1"
+    url: "/projects/test1/"
+  - title: "test2"
+    url: "/projects/test2/"
 
 - title: "Header Styles"
   url: "/headers/"
@@ -49,15 +33,6 @@
     url: "/design/no-header/"
   - title: "No Header but Image"
     url: "/design/no-header-but-image/"
-
-- title: Documentation
-  url: "/documentation/"
-  side: left
-  dropdown:
-  - title: "Changelog"
-    url: "/changelog/"
-  - title: "Roadmap"
-    url: "/roadmap/"
 
 - title: Blog
   url: "/blog/"
