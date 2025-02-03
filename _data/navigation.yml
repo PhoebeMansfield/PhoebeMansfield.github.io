@@ -6,14 +6,14 @@
   url: "/getting-started/"
   side: left
 
-- title: "Projects"
-  url: "/projects/"
+- title: "Portfolio"
+  url: "/portfolio/"
   side: left
   dropdown:
   - title: "test1"
-    url: "/projects/test1/"
+    url: "/portfolio/test1/"
   - title: "test2"
-    url: "/projects/test2/"
+    url: "/portfolio/test2/"
 
 - title: "Header Styles"
   url: "/headers/"
