@@ -1,8 +1,8 @@
 ---
 layout: page
 title: "My Work"
-subheadline: "Why another Jekyll Theme?"
-teaser: "Since years I am programming and designing websites. I love to work with open source tools and learn via code from others. This time I want to try to give something back..."
+subheadline: "A showcase of my work"
+teaser: "yipeeee"
 permalink: "/portfolio/"
 header:
     image:  "header_unsplash_2-970x.jpg"
