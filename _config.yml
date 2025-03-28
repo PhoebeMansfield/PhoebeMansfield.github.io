@@ -8,10 +8,10 @@
 #                                                 /____/
 #
 # Title of your website
-title: 'Development Portfolio'
+title: 'Phoebe Mansfield'
 
 # The slogan describes your website and is used on homepage in <title> and other important places
-slogan: 'By Phoebe Mansfield'
+slogan: 'My Development Portfolio'
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
 description: 'A WIP Portfolio site'
@@ -112,7 +112,7 @@ defaults:
       show_meta: false 	# Hide metadata for all pages
       # sidebar:    		# Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: phlow     # Default author for pages
+      author: phoebe     # Default author for pages
   -
     scope:
       path: ''
@@ -121,7 +121,7 @@ defaults:
       show_meta: true   # Show metadata for all posts
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: phlow     # Default author for posts
+      author: phoebe     # Default author for posts
 
 
 
