@@ -2,9 +2,13 @@
   url: "/"
   side: left
 
-- title: Getting Started
-  url: "/getting-started/"
+- title: My Work
+  url: "/Portfolio/"
   side: left
+
+#- title: Getting Started
+#  url: "/getting-started/"
+#  side: left
 
 - title: "Templates"
   url: "/design/"
