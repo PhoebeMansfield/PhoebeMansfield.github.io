@@ -1,0 +1,27 @@
+---
+layout: page
+#
+# Content
+#
+subheadline: "This is a test, a very testy test"
+title: "Watch me test a blog"
+teaser: "How does this work? who knows, but I'm typing things anyways."
+categories:
+  - design
+tags:
+  - audio player
+  - video player
+  - streaming music
+#
+# Styling
+#
+header: no
+image:
+    title: mediaplayer_js-title.jpg
+    thumb: mediaplayer_js-thumb.jpg
+    homepage: mediaplayer_js-home.jpg
+    caption: Photo by Corey Blaz
+    caption_url: https://blaz.photography/
+---
+
+Wowoie look at me its some sort of content for the main part
