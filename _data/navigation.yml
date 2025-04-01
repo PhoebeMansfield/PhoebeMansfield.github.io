@@ -5,6 +5,13 @@
 - title: My Work
   url: "/portfolio/"
   side: left
+  dropdown:
+  - title: "Games"
+    url: "/portfolio/games"
+  - title: "Custom Hardware and Firmware"
+    url: "/portfolio/hardware-and-firmware"
+  - title: "General Applications"
+    url: "/portfolio/app"
 
 #- title: Getting Started
 #  url: "/getting-started/"
