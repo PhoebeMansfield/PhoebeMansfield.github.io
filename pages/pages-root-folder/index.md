@@ -7,7 +7,6 @@
 layout: frontpage
 header:
   image_fullwidth: header_unsplash_12.jpg
-  title: My Work
 widget1:
   title: "Games Work"
   url: 'http://phoebemansfield.github.io/portfolio/games/'
