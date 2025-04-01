@@ -8,20 +8,20 @@ layout: frontpage
 header:
   image_fullwidth: header_unsplash_12.jpg
 widget1:
-  title: "Portfolio"
-  url: 'http://phoebemansfield.github.io/portfolio/'
+  title: "Games Work"
+  url: 'http://phoebemansfield.github.io/portfolio/games/'
   image: widget-1-302x182.jpg
-  text: 'Every good portfolio website has a blog with fresh news, thoughts and develop&shy;ments of your activities. <em>Feeling Responsive</em> offers you a fully functional blog with an archive page to give readers a quick overview of all your posts.'
+  text: 'Most of my games work takes place using Unity and C#. I have also utilised C++ and SDL2 along with imgui and other such libraries.'
 widget2:
-  title: "Why use this theme?"
-  url: 'http://phlow.github.io/feeling-responsive/info/'
-  text: '<em>Feeling Responsive</em> is heavily customizable.<br/>1. Language-Support :)<br/>2. Optimized for speed and it&#39;s responsive.<br/>3. Built on <a href="http://foundation.zurb.com/">Foundation Framework</a>.<br/>4. Seven different Headers.<br/>5. Customizable navigation, footer,...'
+  title: "Custom Hardware and Firmwares"
+  url: 'http://phoebemansfield.github.io/portfolio/hardware-and-firmware/'
+  text: 'I tend to make my own tools to optimise my workflow, these can be hand wired or printed pcbs and custom programming using C or Python.'
   video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
 widget3:
-  title: "Download Theme"
-  url: 'https://github.com/Phlow/feeling-responsive'
+  title: "General Applications"
+  url: 'https://github.com/Phlow/portfolio/apps'
   image: widget-github-303x182.jpg
-  text: '<em>Feeling Responsive</em> is free and licensed under a MIT License. Make it your own and start building. The code is well-documented and explains you how it works.'
+  text: 'I have built tools using Java and Kotlin dsl for Gradle or Unity C# for a variety of purposes, including google api automatition for administration purposes.'
 #
 # Use the call for action to show a button on the frontpage
 #
