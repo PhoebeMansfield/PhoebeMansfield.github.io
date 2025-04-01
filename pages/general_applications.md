@@ -3,7 +3,7 @@ layout: page
 title: "General Projects"
 subheadline: "Just kinda things"
 teaser: "zooooom"
-permalink: "/portfolio/app/"
+permalink: "/portfolio/apps/"
 header:
     image_fullwidth: "header_drop.jpg"
 ---
