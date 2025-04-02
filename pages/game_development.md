@@ -2,7 +2,7 @@
 layout: page-fullwidth
 title: "Games Development Projects"
 subheadline: "Made with Unity"
-#teaser: "A mix of old and new"
+teaser: "A mix of old and new"
 permalink: "/portfolio/games/"
 header:
     image_fullwidth: "header_drop.jpg"
@@ -20,11 +20,13 @@ header:
 </div>
 <div class="row">
     <div class="small-1 columns">
+        <p>   </p>
     </div>
     <div class="columns">
         <img src="/images/gallery-example-4.jpg">
     </div>
     <div class="small-1 columns">
+        <p>   </p>
     </div>
 </div>
 <div class="row">
