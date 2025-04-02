@@ -7,15 +7,15 @@ permalink: "/portfolio/games/"
 header:
     image_fullwidth: "header_drop.jpg"
 ---
-<div class="row" id="project">
-    <div class="small-4 columns" >
+<div class="row" >
+    <div class="small-4 columns" id="project">
         <a href="/portfolio/games/projectname"><img class="image" src="/images/gallery-example-1.jpg" ></a>
     </div>
-    <div class="small-4 columns">
+    <div class="small-4 columns" id="project">
         <a href="/portfolio/games/projectname"><img class="image" src="/images/gallery-example-3.jpg"></a>
     </div>
-    <div class="small-4 columns">
-        <img class="image" src="/images/gallery-example-2.jpg">
+    <div class="small-4 columns" id="project">
+        <a href="/portfolio/games/projectname"><img class="image" src="/images/gallery-example-2.jpg"></a>
     </div>
 </div>
 <div class="row">
@@ -23,7 +23,7 @@ header:
         <p>   </p>
     </div>
     <div class="columns">
-        <img src="/images/gallery-example-4.jpg">
+        <a href="/portfolio/games/projectname"><img class="image" src="/images/gallery-example-4.jpg"></a>
     </div>
     <div class="small-1 columns">
         <p>   </p>
@@ -31,10 +31,10 @@ header:
 </div>
 <div class="row">
     <div class="small-6 columns">
-        <img src="/images/gallery-example-5.jpg">
+        <a href="/portfolio/games/projectname"><img class="image" src="/images/gallery-example-5.jpg"></a>
     </div>
     <div class="small-6 columns">
-        <img src="/images/gallery-example-6.jpg">
+        <a href="/portfolio/games/projectname"><img class="image" src="/images/gallery-example-6.jpg"></a>
     </div>
 </div>
 
