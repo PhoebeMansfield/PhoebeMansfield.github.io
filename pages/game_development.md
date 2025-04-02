@@ -8,4 +8,11 @@ header:
     image_fullwidth: "header_drop.jpg"
 ---
 
-Yipeeee
+<div class="row">
+    <div class="small-6 columns">
+
+    </div>
+    <div class="small-6 columns">
+
+    </div>
+</div>
