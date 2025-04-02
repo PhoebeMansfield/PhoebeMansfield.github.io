@@ -18,5 +18,15 @@ header:
         <img src="/images/gallery-example-2.jpg">
     </div>
 </div>
-
+<div>
+    <img src="/images/gallery-example-4.jpg">
+</div>
+<div class="row">
+    <div class="small-5 columns">
+        <img src="/images/gallery-example-5.jpg">
+    </div>
+    <div class="small-5 columns">
+        <img src="/images/gallery-example-6.jpg">
+    </div>
+</div>
 
