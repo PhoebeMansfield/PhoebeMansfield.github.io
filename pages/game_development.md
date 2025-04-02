@@ -10,9 +10,9 @@ header:
 
 <div class="row">
     <div class="small-6 columns">
-
+        <h2>Doot doot</h2>
     </div>
     <div class="small-6 columns">
-
+        <h2>Doot doot</h2>
     </div>
 </div>
