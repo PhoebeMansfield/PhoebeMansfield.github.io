@@ -30,10 +30,10 @@ header:
     </div>
 </div>
 <div class="row">
-    <div class="small-5 columns">
+    <div class="small-6 columns">
         <img src="/images/gallery-example-5.jpg">
     </div>
-    <div class="small-5 columns">
+    <div class="small-6 columns">
         <img src="/images/gallery-example-6.jpg">
     </div>
 </div>
