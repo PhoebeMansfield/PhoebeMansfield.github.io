@@ -7,7 +7,7 @@ permalink: "/portfolio/games/"
 header:
     image_fullwidth: "header_drop.jpg"
 ---
-<div class="row">
+<div class="small-5 row">
     <div class="small-3 columns">
         <img src="/images/gallery-example-1.jpg">
     </div>
