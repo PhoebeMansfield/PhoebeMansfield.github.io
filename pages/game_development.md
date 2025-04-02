@@ -22,7 +22,7 @@ header:
     <div class="small-1 columns">
         <p>   </p>
     </div>
-    <div class="columns">
+    <div class="columns" id="project">
         <a href="/portfolio/games/projectname"><img class="image" src="/images/gallery-example-4.jpg"></a>
     </div>
     <div class="small-1 columns">
@@ -30,10 +30,10 @@ header:
     </div>
 </div>
 <div class="row">
-    <div class="small-6 columns">
+    <div class="small-6 columns" id="project">
         <a href="/portfolio/games/projectname"><img class="image" src="/images/gallery-example-5.jpg"></a>
     </div>
-    <div class="small-6 columns">
+    <div class="small-6 columns" id="project">
         <a href="/portfolio/games/projectname"><img class="image" src="/images/gallery-example-6.jpg"></a>
     </div>
 </div>
