@@ -17,9 +17,6 @@ header:
     <div class="small-3 columns">
         <img src="/images/gallery-example-2.jpg">
     </div>
-    <div class="small-3 columns">
-        <img src="/images/gallery-example-4.jpg">
-    </div>
 </div>
 
 
