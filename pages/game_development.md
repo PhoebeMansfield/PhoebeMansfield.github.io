@@ -22,7 +22,7 @@ header:
     <div class="small-1 columns">
         <p>   </p>
     </div>
-    <div class="small-6 columns">
+    <div class="columns">
         <img src="/images/gallery-example-4.jpg">
     </div>
     <div class="small-1 columns">
