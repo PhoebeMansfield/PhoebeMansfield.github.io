@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-fullwidth
 title: "Games Development Projects"
 subheadline: "Made with Unity"
 teaser: "A mix of old and new"
