@@ -1,15 +1,17 @@
-- title: Start
+- title: Homepage
   url: "/"
   side: left
 
-- title: About
+- title: About Myself
   url: "/about/"
   side: left
 
-- title: My Work
+- title: Examples of my Work
   url: "/portfolio/"
   side: left
   dropdown:
+  - title: "Small Highlight Selection"
+    url: "/portfolio/main"
   - title: "Games Development"
     url: "/portfolio/games"
   - title: "Custom Hardware and Firmware"

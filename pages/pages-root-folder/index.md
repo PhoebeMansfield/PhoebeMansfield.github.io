@@ -33,8 +33,8 @@ widget3:
 # To change colors see sass/_01_settings_colors.scss
 #
 callforaction:
-  url: https://tinyletter.com/feeling-responsive
-  text: Inform me about new updates and features ›
+  url: /portfolio/main
+  text: Check out my most recent projects here.
   style: alert
 permalink: /index.html
 #
