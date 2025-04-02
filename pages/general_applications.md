@@ -9,15 +9,15 @@ header:
 ---
 <div class="row">
     <div class="small-3 columns">
-        <img src="gallery-example-1.jpg">
+        <img src="/images/gallery-example-1.jpg">
     </div>
     <div class="small-3 columns">
-        <img src="gallery-example-3.jpg">
+        <img src="/images/gallery-example-3.jpg">
     </div>
     <div class="small-3 columns">
-        <img src="gallery-example-2.jpg">
+        <img src="/images/gallery-example-2.jpg">
     </div>
     <div class="small-3 columns">
-        <img src="gallery-example-4.jpg">
+        <img src="/images/gallery-example-4.jpg">
     </div>
 </div>
