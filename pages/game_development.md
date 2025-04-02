@@ -8,7 +8,7 @@ header:
     image_fullwidth: "header_drop.jpg"
 ---
 <div class="row">
-    <div class="small-4 columns" tag="test">
+    <div class="small-4 columns">
         <a href="/portfolio/games/projectname"><img class="image" src="/images/gallery-example-1.jpg" id="project"></a>
     </div>
     <div class="small-4 columns">
