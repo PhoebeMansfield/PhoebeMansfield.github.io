@@ -9,7 +9,7 @@ header:
 ---
 <div class="row">
     <div class="small-4 columns">
-        <img src="/images/gallery-example-1.jpg">
+        <a href="/portfolio/games/projectname"><img src="/images/gallery-example-1.jpg"></a>
     </div>
     <div class="small-4 columns">
         <img src="/images/gallery-example-3.jpg">
