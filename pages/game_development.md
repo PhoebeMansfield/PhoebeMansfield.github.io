@@ -7,29 +7,19 @@ permalink: "/portfolio/games/"
 header:
     image_fullwidth: "header_drop.jpg"
 ---
-test
 <div class="row">
     <div class="small-3 columns">
-        <h2> Doot doot </h2>
+        <img src="gallery-example-1.jpg">
     </div>
     <div class="small-3 columns">
-        <h2> Doot doot </h2>
+        <img src="gallery-example-3.jpg">
+    </div>
+    <div class="small-3 columns">
+        <img src="gallery-example-2.jpg">
+    </div>
+    <div class="small-3 columns">
+        <img src="gallery-example-4.jpg">
     </div>
 </div>
-test
-<div class="row">
-    <div class="small-3 columns">
-        <h2> Doot doot </h2>
-    </div>
-    <div class="small-3 columns">
-        <h2> Doot doot </h2>
-    </div>
-    <div class="small-3 columns">
-        <h2> Doot doot </h2>
-    </div>
-    <div class="small-3 columns">
-        <h2> Doot doot </h2>
-    </div>
-</div>
-test
+
 
