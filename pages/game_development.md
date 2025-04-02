@@ -9,50 +9,27 @@ header:
 ---
 test
 <div class="row">
-    <div class="small-1 columns">
+    <div class="small-3 columns">
         <h2> Doot doot </h2>
     </div>
-    <div class="small-1 columns">
-        <h2> Doot doot </h2>
-    </div>
-</div>
-test
-<div class="row">
-    <div class="small-1 columns">
-        <h2> Doot doot </h2>
-    </div>
-    <div class="small-1 columns">
-        <h2> Doot doot </h2>
-    </div>
-    <div class="small-1 columns">
-        <h2> Doot doot </h2>
-    </div>
-    <div class="small-1 columns">
+    <div class="small-3 columns">
         <h2> Doot doot </h2>
     </div>
 </div>
 test
 <div class="row">
-    <div class="small-6 columns">
+    <div class="small-3 columns">
         <h2> Doot doot </h2>
     </div>
-    <div class="small-6 columns">
+    <div class="small-3 columns">
         <h2> Doot doot </h2>
     </div>
-</div>
-test
-<div class="row">
-    <div class="small-6 columns">
+    <div class="small-3 columns">
         <h2> Doot doot </h2>
     </div>
-    <div class="small-6 columns">
-        <h2> Doot doot </h2>
-    </div>
-    <div class="small-6 columns">
-        <h2> Doot doot </h2>
-    </div>
-    <div class="small-6 columns">
+    <div class="small-3 columns">
         <h2> Doot doot </h2>
     </div>
 </div>
 test
+
