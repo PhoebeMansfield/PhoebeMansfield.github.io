@@ -10,7 +10,7 @@ header:
 permalink           : "/portfolio/"
 ---
 
-<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/portfolio/games/">Have a spy at the games I've made ›</a>
+<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/portfolio/games/">Games, practice and technical tests that I've made›</a>
 
 <a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/portfolio/apps/">General coding projects, often odd tools and such ›</a>
 
